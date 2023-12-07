@@ -1,7 +1,9 @@
-﻿  Component.cpp
+﻿  Menu.cpp
   ShapeRenderer.cpp
+  Scene.cpp
+  Component.cpp
   SquareCollider.cpp
   GameObject.cpp
-  Scene.cpp
+  Vector2.cpp
   Génération de code en cours...
-  GameObjectLib.vcxproj -> D:\System\Desktop\Vertical Slice\deadly run\x64\Debug\GameObjectLib.lib
+  GameObjectLib.vcxproj -> D:\System\Desktop\Vrai vertical slice\x64\Debug\GameObjectLib.lib
